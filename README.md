@@ -2,5 +2,5 @@
 layout: landing
 ---
 
-# A propos
+# Introduction
 
